@@ -5,8 +5,6 @@ Project created on 9th May, 2020
 #### Description
 This project is about exploring US bikeshare data of three cities namely Chicago, New York and Washington. You can see basic stats like which is the most common start staion, end station and combination of both. Plots are generated using ggplot2 to better understand the usage pattern.
 
-If you are a Python geek, have a look at the Python version [here](https://github.com/prasang0607/pdsnd_project_python){target="_blank"}.
-
 #### Libraries Used
 Following are the libraries that go behind the working of this project:
 * [**dplyr**](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8): dplyr is a grammar of data manipulation, providing a consistent set of verbs that help you solve the most common data manipulation challenges.
